@@ -1,6 +1,27 @@
 div{
-background-color:darkcyan;
-color:white;
-text-align: center;
-font-weight: bold;
+    background-color:darkcyan;
+    color:white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.odd{
+    background-color: rgb(226, 186, 186);
+    font-family: Verdana, sans-serif;
+}
+
+.two{
+    color: blue;
+    font-size: 36px;
+}
+
+.three{
+    font-family: Verdana, sans-serif;
+    font-size: 24px;
+}
+
+.four{
+    background-color: rgb(109, 10, 60);
+    font-size: 24px;
+    font-weight:bold;
 }
